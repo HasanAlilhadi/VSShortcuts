@@ -1,0 +1,72 @@
+{
+  "CursorDown": {
+    "Id": 1,
+    "Name": "Edit.LineDown",
+    "Shortcut": "Alt+S"
+  },
+  "CursorEndOfWord": {
+    "Id": 2,
+    "Name": "Edit.WordNext",
+    "Shortcut": "Shift+Alt+D"
+  },
+  "CursorLeft": {
+    "Id": 3,
+    "Name": "Edit.CharLeft",
+    "Shortcut": "Alt+A"
+  },
+  "CursorRight": {
+    "Id": 4,
+    "Name": "Edit.CharRight",
+    "Shortcut": "Alt+D"
+  },
+  "CursorStartOfWord": {
+    "Id": 5,
+    "Name": "Edit.WordPrevious",
+    "Shortcut": "Shift+Alt+A"
+  },
+  "CursorUp": {
+    "Id": 6,
+    "Name": "Edit.LineUp",
+    "Shortcut": "Alt+W"
+  },
+  "MoveSelectedLinesUp": {
+    "Id": 7,
+    "Name": "Edit.MoveSelectedLinesUp",
+    "Shortcut": "Shift+Alt+D"
+  },
+  "MoveSelectedLinesDown": {
+    "Id": 8,
+    "Name": "Edit.MoveSelectedLinesDown",
+    "Shortcut": "Shift+Alt+S"
+  },
+  "SelectRight": {
+    "Id": 9,
+    "Name": "Edit.CharRightExtend",
+    "Shortcut": "Ctrl+Alt+D"
+  },
+  "SelectLeft": {
+    "Id": 10,
+    "Name": "Edit.CharLeftExtend",
+    "Shortcut": "Ctrl+Alt+A"
+  },
+  "SelectUp": {
+    "Id": 11,
+    "Name": "Edit.LineUpExtend",
+    "Shortcut": "Ctrl+Alt+W"
+  },
+  "SelectDown": {
+    "Id": 12,
+    "Name": "Edit.LineDownExtend",
+    "Shortcut": "Ctrl+Alt+S"
+  },
+  "LineEnd": {
+    "Id": 13,
+    "Name": "Edit.LineEnd",
+    "Shortcut": "Alt+E"
+  },
+  "LineStart": {
+    "Id": 14,
+    "Name": "Edit.LineStart",
+    "Shortcut": "Alt+Q"
+  }
+}
